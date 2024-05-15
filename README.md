@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @Felipegustavobjj
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Bem-vindo ao Meu Repositório! 👋
 
-<!---
-Felipegustavobjj/Felipegustavobjj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sobre Mim. 🚀
+Olá! Meu nome é Felipe Mascara e sou um entusiasta da tecnologia apaixonado por criar coisas novas e resolver problemas interessantes. Atualmente, estou focado em atuar como desenvolvedor Full Stack. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades aprendendo novas linguagens.
+
+
+Habilidades 📚 
+
+Linguagens de Programação: HTML | CSS | | Node.Js | JavaScript. 🖥️
+Frameworks e Tecnologias: Bootstrap | Vue 🛠️
+
+
+Contato 📱
+
+LinkedIn: linkedin.com/in/felipe-gustavo-mascara-6a8ab016a 💼
+E-mail: felipe.mascara@hotmail.com 💻
+
+Contribuições 💡
+
+Se você encontrar algum problema ou tiver sugestões para melhorar meus projetos, sinta-se à vontade para abrir uma issue ou enviar um pull request. Estou sempre aberto a colaborações!
+
+Agradecimentos ✨
+
+Agradeço por visitar meu perfil e por conferir meus projetos. Espero que você encontre algo útil por aqui!
